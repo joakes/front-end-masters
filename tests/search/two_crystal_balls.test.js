@@ -1,4 +1,4 @@
-import balls from "../src/TwoCrystalBalls";
+import balls from "../../src/TwoCrystalBalls";
 
 describe("crystal balls module", () => {
   test("two crystal balls", () => {
